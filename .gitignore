@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+CLAUDE.md
