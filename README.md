@@ -2,6 +2,8 @@
 
 A Node.js application to export company data from Gong.io via their API.
 
+![screenshot](/Users/rrodrigues/github/gongexport/screenshot.png)
+
 ## Features
 
 - Export call and conversation data (metadata, transcripts, recordings) using `/v2/calls/extensive` endpoint
