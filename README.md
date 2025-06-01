@@ -2,7 +2,7 @@
 
 A Node.js application to export company data from Gong.io via their API.
 
-![screenshot](/Users/rrodrigues/github/gongexport/screenshot.png)
+![screenshot](screenshot.png)
 
 ## Features
 
